@@ -1,0 +1,3 @@
+dollars = 1
+rupees = dollars * 64
+print(rupees, " Rupees")
